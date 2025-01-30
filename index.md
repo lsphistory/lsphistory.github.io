@@ -6,6 +6,8 @@ title: 个人主页
 
 # Shipeng Li
 
+I am a doctoral candidate from the Department of History at Tsinghua University in China and a visiting doctoral student at Heidelberg University during the summer semester of 2025. My research interests encompass the societal and cultural dynamics of late imperial China through to contemporary China. Currently, my main research focus is on the history of the Mao era. My dissertation, provisionally titled Building Our New Great Wall: Forests and State Building in Northern China (1937-1987), seeks to analyze the political and social dimensions of Socialist China through the lenses of technological history, environmental history, cultural history, and global history. I have published multiple papers in Mainland China and Taiwan.
+
 ## RESEARCH INTERESTS
 PhD Candidates – History, Tsinghua University. (2021- present) 
             Supervisor: Prof. Wang Dongjie 王東傑
