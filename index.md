@@ -2,7 +2,6 @@
 layout: default
 title: Shipeng Li 李世鹏
 ---
-
 <meta name="msvalidate.01" content="F7DC009AAFFF21A905323EEBFC7E073C" />
 <meta name="description" content="清华大学历史系博士生李世鹏的个人学术主页">
 <meta name="keywords" content="Tsinghua Shipeng Li history">
