@@ -1,8 +1,35 @@
 ---
 layout: default
-title: 个人主页
+title: Shipeng Li 李世鹏
 ---
-![IMG_4078](https://github.com/user-attachments/assets/1538b9e8-efac-43ff-9972-79979b66993f)
+
+<style>
+.profile-container {
+  display: flex;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+.profile-photo {
+  flex: 0 0 200px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+@media (max-width: 768px) {
+  .profile-container {
+    flex-direction: column;
+  }
+}
+</style>
+
+<div class="profile-container">
+  <img src="/assets/photo.jpg" class="profile-photo" alt="Liu Shaoph">
+  
+  <div>
+    <h1 style="margin-top:0">李世鹏</h1>
+    <p>清华大学历史系博士候选人</p>
+    <p>研究领域：中国近现代社会文化史、革命史</p>
+  </div>
+</div>
 
 # Shipeng Li
 
