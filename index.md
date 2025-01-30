@@ -4,16 +4,14 @@ title: 个人主页
 ---
 
 # Shipeng Li
-**BIOGRAPHY![image](https://github.com/user-attachments/assets/e8eb970c-8765-4a91-98fd-77b504937c17)
+**BIOGRAPHY
 **：
 PhD Candidates – History, Tsinghua University. (2021- present)        Supervisor: Prof. Wang Dongjie 王東傑
 MA - History, Renmin University of China (2018-2021)              Supervisor: Prof. Yang Jianli 楊劍利
 BA - History, Sichuan University. (2014-2018)                      Supervisor: Prof. Luo Zhitian 羅志田
-![image](https://github.com/user-attachments/assets/7aafff9a-9f80-4810-be3c-f932b36870ad)
 
-![image](https://github.com/user-attachments/assets/e1bd1a06-d930-4a90-a353-094f05849314)
 
-**RESEARCH INTERESTS![image](https://github.com/user-attachments/assets/f8a9ef4f-bcb7-45ee-bc6b-71904f77dfff)
+**RESEARCH INTERESTS
 **：
 •	The New Culture Movement
 •	History of Gender and Sexuality 
@@ -23,7 +21,6 @@ BA - History, Sichuan University. (2014-2018)                      Supervisor: P
 •	Regional History of Late Imperial China (Hunan and Jiangxi Provinces)
 •	The History of Science and Technology in Modern China
 •	Forest History and Environmental History in the Mao Era
-![image](https://github.com/user-attachments/assets/0829c052-3494-46c7-9f17-202650574f62)
 
 
 ## PUBLICATIONS![image](https://github.com/user-attachments/assets/88a2d886-90ef-4fa2-aee1-0f270a597fd7)
@@ -35,7 +32,6 @@ BA - History, Sichuan University. (2014-2018)                      Supervisor: P
 6.	“Struggling for Life: The Discourse of The Unknown Writers in the Post-May 4th Era (关山难越：后五四时代的“无名作家”言说),” Literary Review文学评论, No. 4 (2020), pp. 98-107. 
 7.	“Social Expectation and Female Consciousness: The Model Female Images in the 1920-1930's Public Opinion Poll (社会期待与女性自觉——20世纪二三十年代民意调查中的典范女性形象),” Journal of Chinese Women's Studies妇女研究论丛, No. 5 (2019), pp. 99-112. 
 8.	“Emotion and Gender in Public Opinions: Tao Sijin Murder Case and Female Homosexual Discourse in the Republic of China (公众舆论中的情感和性别——陶思瑾案与民国女性同性爱话语),” Journal of Chinese Women's Studies妇女研究论丛, No. 5 (2017), pp. 60-78. 
-![image](https://github.com/user-attachments/assets/04df65a3-00cf-4a2e-bf15-99c899a431a0)
 
 
 [下载完整简历](/assets/cv.pdf) | [联系邮箱](mailto:lsphistory@163.com![image](https://github.com/user-attachments/assets/38b59733-77a9-49af-b1b0-1e22d07610b2)
