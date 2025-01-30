@@ -45,6 +45,7 @@ I am a doctoral candidate from the Department of History at Tsinghua University 
 - 2024-2025   "Field Investigation and Academic Growth of History Graduate Students", the Program of Graduate Education and Teaching Reform in Tsinghua University. (Project Number: 202403X002, 50000 yuan)
 - 2022-2023   "Fresh History Workshop: Construction of a Chinese Modern and Contemporary History Exchange Platform from the Perspective of New Liberal Arts", the Program of Graduate Education and Teaching Reform in Tsinghua University. (Project Number: 202201X001, 50000 yuan)
 - 2017-2018   "Research on the Group of Administration-Supervising Commissioner in Sichuan during the Republican Era", National College Students' Innovation and Entrepreneurship Training Program. (Project Number: 201710610034, 20000 yuan)
+ 
 **As project member**
 - 2016-2017   National College Students' innovation and entrepreneurship training program "Oral History Investigation of the Comprehensive Investigation of the Six River Basin" (20000 yuan)
 
