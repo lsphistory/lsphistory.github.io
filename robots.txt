@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lsphistory.github.io/sitemap.xml
