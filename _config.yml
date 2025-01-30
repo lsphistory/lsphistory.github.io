@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Shipeng Li
+description: 学术主页
 theme: jekyll-theme-minimal
+email: lsphistory@163.com
+baseurl: "" 
+url: "https://lsphistory.github.io"
