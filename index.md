@@ -40,19 +40,28 @@ I am a doctoral candidate from the Department of History at Tsinghua University 
 2.	“Finding History between the Local and the Global: Interviewing Prof. Wang Di” (在区域与全球之间追寻历史——王笛教授访谈), Regional Studies区域史研究, Vol.7 (2022), pp. 3-26.
 
 
+## PROJECTS
+**As project leader**
+- 2024-2025   "Field Investigation and Academic Growth of History Graduate Students", the Program of Graduate Education and Teaching Reform in Tsinghua University. (Project Number: 202403X002, 50000 yuan)
+- 2022-2023   "Fresh History Workshop: Construction of a Chinese Modern and Contemporary History Exchange Platform from the Perspective of New Liberal Arts", the Program of Graduate Education and Teaching Reform in Tsinghua University. (Project Number: 202201X001, 50000 yuan)
+- 2017-2018   "Research on the Group of Administration-Supervising Commissioner in Sichuan during the Republican Era", National College Students' Innovation and Entrepreneurship Training Program. (Project Number: 201710610034, 20000 yuan)
+**As project member**
+- 2016-2017   National College Students' innovation and entrepreneurship training program "Oral History Investigation of the Comprehensive Investigation of the Six River Basin" (20000 yuan)
+
+
 ## HONOURS AND AWARDS
-2023  First Class Scholarship, Tsinghua University
-2022  Second Prize in the 10th Zhang Jinfan National Legal History Competition (Beijing)
-2022  First class Scholarship, Tsinghua University
-2021  Outstanding Graduate, Renmin University of China
-2020  National scholarship for Postgraduates
-2020  Excellent Paper Award at the 2nd Yisi Graduate Academic Forum (Beijing)
-2018  8th Ge Xiaojia Thesis Prize (Chengdu)
-2018  Hao-Wei-Lai Outstanding Graduate Scholarship, Sichuan University
-2018  Third Prize of the 12th National Historical Newcomer Award (Tianjin)
-2018  Third Prize in the Second Mao Jiaqi Historical Competition (Nanjing)
-2018  First Prize for Excellent Graduation Thesis, Sichuan University
-2017  First Class Scholarship, Sichuan University
+- 2023  First Class Scholarship, Tsinghua University
+- 2022  Second Prize in the 10th Zhang Jinfan National Legal History Competition (Beijing)
+- 2022  First class Scholarship, Tsinghua University
+- 2021  Outstanding Graduate, Renmin University of China
+- 2020  National scholarship for Postgraduates
+- 2020  Excellent Paper Award at the 2nd Yisi Graduate Academic Forum (Beijing)
+- 2018  8th Ge Xiaojia Thesis Prize (Chengdu)
+- 2018  Hao-Wei-Lai Outstanding Graduate Scholarship, Sichuan University
+- 2018  Third Prize of the 12th National Historical Newcomer Award (Tianjin)
+- 2018  Third Prize in the Second Mao Jiaqi Historical Competition (Nanjing)
+- 2018  First Prize for Excellent Graduation Thesis, Sichuan University
+- 2017  First Class Scholarship, Sichuan University
 
 
 [下载完整简历]([Curriculum Vitae (LI SHIPENG).pdf](https://github.com/user-attachments/files/18599726/Curriculum.Vitae.LI.SHIPENG.pdf)
