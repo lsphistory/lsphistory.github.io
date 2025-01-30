@@ -25,7 +25,7 @@ I am a doctoral candidate from the Department of History at Tsinghua University 
 
 
 ## PUBLICATIONS
-1.	“Xu Yuying v. Ji Juemi: The Transformation Dilemma of Modern China in a Seduction Case (1933-1935) ,” (徐玉英告狀：一樁「誘姦案」中的現代中國轉型困局（1933-1935）), Research on Women in Modern Chinese History近代中國婦女史研究(台灣), Vol. 44 (2024). [徐玉英告狀：一樁「誘姦案」中的現代中國轉型困局（1933-1935）.pdf](https://github.com/user-attachments/files/18601665/1933-1935.pdf)
+1.	“Xu Yuying v. Ji Juemi: The Transformation Dilemma of Modern China in a Seduction Case (1933-1935) ,” (徐玉英告狀：一樁「誘姦案」中的現代中國轉型困局（1933-1935）), Research on Women in Modern Chinese History近代中國婦女史研究(台灣), Vol. 43 (2024). [徐玉英告狀：一樁「誘姦案」中的現代中國轉型困局（1933-1935）.pdf](https://github.com/user-attachments/files/18601665/1933-1935.pdf)
 2.	“Making a Model of Vernacular Writing: A Study on the Compilation Reason of the First Collection of Hu Shih Wencun, ” WENXIAN文献, No.3 (2024). [制作白话范本：《胡适文存》初集编纂缘由考论.pdf](https://github.com/user-attachments/files/18599692/default.pdf)
 3.	“‘To the Moon’: The Spread and Evolution of Moon Exploration Knowledge in Modern China,” The Journal Of Humanities人文杂志, No.1 (2022), pp. 117-129. [“到月球去”：近代中国火箭探月知识的传播与演变.pdf](https://github.com/user-attachments/files/18599694/default.pdf)
 4.	“The Travelling of the Knowledge about ‘-ism’ - Pamphlet and Anarchism in Sichuan around the May Forth Movement, ” Journal of the History of Ideas in East Asia東亞觀念史集刊(台灣), Vol. 18 (2020), pp. 213-256. [主義知識的旅行：「小冊子」與五四前後四川的無政府主義.pdf](https://github.com/user-attachments/files/18599704/default.pdf)
@@ -65,6 +65,5 @@ I am a doctoral candidate from the Department of History at Tsinghua University 
 - 2017  First Class Scholarship, Sichuan University
 
 
-[下载完整简历]([Curriculum Vitae (LI SHIPENG).pdf](https://github.com/user-attachments/files/18599726/Curriculum.Vitae.LI.SHIPENG.pdf)
-) | [联系邮箱](mailto:lsphistory@163.com![image](https://github.com/user-attachments/assets/38b59733-77a9-49af-b1b0-1e22d07610b2)
+[下载完整简历]() | [联系邮箱](mailto:lsphistory@163.com![image](https://github.com/user-attachments/assets/38b59733-77a9-49af-b1b0-1e22d07610b2)
 )
