@@ -4,26 +4,24 @@ title: 个人主页
 ---
 
 # Shipeng Li
-**BIOGRAPHY
-**：
-PhD Candidates – History, Tsinghua University. (2021- present)        Supervisor: Prof. Wang Dongjie 王東傑
-MA - History, Renmin University of China (2018-2021)              Supervisor: Prof. Yang Jianli 楊劍利
-BA - History, Sichuan University. (2014-2018)                      Supervisor: Prof. Luo Zhitian 羅志田
+
+## RESEARCH INTERESTS
+**PhD Candidates – History, Tsinghua University. (2021- present)        Supervisor: Prof. Wang Dongjie 王東傑**
+**MA - History, Renmin University of China (2018-2021)              Supervisor: Prof. Yang Jianli 楊劍利**
+**BA - History, Sichuan University. (2014-2018)                      Supervisor: Prof. Luo Zhitian 羅志田**
+
+## RESEARCH INTERESTS
+**The New Culture Movement**
+**History of Gender and Sexuality**
+**History of Modern Chinese Literature**
+**Chinese Anarchist Movement**
+**Politics and Political Culture of the Republic of China**
+**Regional History of Late Imperial China (Hunan and Jiangxi Provinces)**
+**The History of Science and Technology in Modern China**
+**Forest History and Environmental History in the Mao Era**
 
 
-**RESEARCH INTERESTS
-**：
-•	The New Culture Movement
-•	History of Gender and Sexuality 
-•	History of Modern Chinese Literature
-•	Chinese Anarchist Movement
-•	Politics and Political Culture of the Republic of China
-•	Regional History of Late Imperial China (Hunan and Jiangxi Provinces)
-•	The History of Science and Technology in Modern China
-•	Forest History and Environmental History in the Mao Era
-
-
-## PUBLICATIONS![image](https://github.com/user-attachments/assets/88a2d886-90ef-4fa2-aee1-0f270a597fd7)
+## PUBLICATIONS
 1.	“Xu Yuying v. Ji Juemi: The Transformation Dilemma of Modern China in a Seduction Case (1933-1935) ,” (徐玉英告狀：一樁「誘姦案」中的現代中國轉型困局（1933-1935）), Research on Women in Modern Chinese History近代中國婦女史研究(台灣), Vol. 44 (2024). 
 2.	“Making a Model of Vernacular Writing: A Study on the Compilation Reason of the First Collection of Hu Shih Wencun (制作白话范本：《胡适文存》初集编纂缘由考论), ” WENXIAN文献, No.3 (2024). 
 3.	“‘To the Moon’: The Spread and Evolution of Moon Exploration Knowledge in Modern China (到月球去：近代中国火箭探月知识的传播与演变),” The Journal Of Humanities人文杂志, No.1 (2022), pp. 117-129. 
