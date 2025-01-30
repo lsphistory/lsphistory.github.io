@@ -21,7 +21,6 @@ I am a doctoral candidate from the Department of History at Tsinghua University 
 - Chinese Anarchist Movement
 - Politics and Political Culture of the Republic of China
 - Regional History of Late Imperial China (Hunan and Jiangxi Provinces)
-- The History of Science and Technology in Modern China
 - Forest History and Environmental History in the Mao Era
 
 
@@ -35,6 +34,25 @@ I am a doctoral candidate from the Department of History at Tsinghua University 
 7.	“Social Expectation and Female Consciousness: The Model Female Images in the 1920-1930's Public Opinion Poll,” Journal of Chinese Women's Studies妇女研究论丛, No. 5 (2019), pp. 99-112. [社会期待与女性自觉——20世纪二三十年代民意调查中的典范女性形象.pdf](https://github.com/user-attachments/files/18599713/20.pdf)
 8.	“Emotion and Gender in Public Opinions: Tao Sijin Murder Case and Female Homosexual Discourse in the Republic of China ,” Journal of Chinese Women's Studies妇女研究论丛, No. 5 (2017), pp. 60-78. [公众舆论中的情感和性别——陶思瑾案与民国女性同性爱话语.pdf](https://github.com/user-attachments/files/18599716/default.pdf)
 
+
+## INTERVIEWS
+1.	“Literature and History: Interviewing Prof. Wang Dongjie.” (文史传统与文史关系的现代展望——王东杰教授学术访谈) Journal of Chinese Culture中华文化论坛, No.1 (2024), pp. 12-20. 
+2.	“Finding History between the Local and the Global: Interviewing Prof. Wang Di” (在区域与全球之间追寻历史——王笛教授访谈), Regional Studies区域史研究, Vol.7 (2022), pp. 3-26.
+
+
+## HONOURS AND AWARDS
+2023  First Class Scholarship, Tsinghua University
+2022  Second Prize in the 10th Zhang Jinfan National Legal History Competition (Beijing)
+2022  First class Scholarship, Tsinghua University
+2021  Outstanding Graduate, Renmin University of China
+2020  National scholarship for Postgraduates
+2020  Excellent Paper Award at the 2nd Yisi Graduate Academic Forum (Beijing)
+2018  8th Ge Xiaojia Thesis Prize (Chengdu)
+2018  Hao-Wei-Lai Outstanding Graduate Scholarship, Sichuan University
+2018  Third Prize of the 12th National Historical Newcomer Award (Tianjin)
+2018  Third Prize in the Second Mao Jiaqi Historical Competition (Nanjing)
+2018  First Prize for Excellent Graduation Thesis, Sichuan University
+2017  First Class Scholarship, Sichuan University
 
 
 [下载完整简历]([Curriculum Vitae (LI SHIPENG).pdf](https://github.com/user-attachments/files/18599726/Curriculum.Vitae.LI.SHIPENG.pdf)
