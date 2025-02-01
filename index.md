@@ -4,9 +4,9 @@ title: Shipeng Li 李世鹏
 ---
 
 <meta name="msvalidate.01" content="F7DC009AAFFF21A905323EEBFC7E073C" />
-<meta name="description" content="清华大学历史系博士生李世鹏">
-<meta name="keywords" content="Tsinghua Shipeng Li history">
-
+<meta name="description" content="清华大学历史系博士生,李世鹏 Tsinghua University, Shipeng Li">
+<meta name="keywords" content="Tsinghua, Shipeng Li, history">
+<meta name="author" content="李世鹏, Shipeng Li">
 
 ![IMG_4078](https://github.com/user-attachments/assets/3a57e688-deef-4145-b9fd-70fc38f57a0b)
 
