@@ -31,14 +31,15 @@ I am a doctoral candidate from the Department of History at Tsinghua University 
 
 
 ## PUBLICATIONS
-1.	“Xu Yuying v. Ji Juemi: The Transformation Dilemma of Modern China as Seen in a Seduction Case,” Research on Women in Modern Chinese History近代中國婦女史研究(台灣), Vol. 43 (2024). [徐玉英告狀：一樁「誘姦案」中的現代中國轉型困局（1933-1935）.pdf](https://github.com/user-attachments/files/18601665/1933-1935.pdf)
-2.	“Making a Model of Vernacular Writing: A Study on the Compilation Reason of the First Collection of Hu Shih Wencun, ” WENXIAN文献, No.3 (2024). [制作白话范本：《胡适文存》初集编纂缘由考论.pdf](https://github.com/user-attachments/files/18599692/default.pdf)
-3.	“‘To the Moon’: The Spread and Evolution of Moon Exploration Knowledge in Modern China,” The Journal Of Humanities人文杂志, No.1 (2022), pp. 117-129. [“到月球去”：近代中国火箭探月知识的传播与演变.pdf](https://github.com/user-attachments/files/18599694/default.pdf)
-4.	“The Travelling of the Knowledge about ‘-ism’ - Pamphlet and Anarchism in Sichuan around the May Forth Movement, ” Journal of the History of Ideas in East Asia東亞觀念史集刊(台灣), Vol. 18 (2020), pp. 213-256. [主義知識的旅行：「小冊子」與五四前後四川的無政府主義.pdf](https://github.com/user-attachments/files/18599704/default.pdf)
-5.	Records of Publishing during the New Culture Movement: Research on the Four Letters from Hu Shizhi to Wang Yuanfang and Zhang Xilu,” Journal of Modern Chinese Literature现代中文学刊, No. 6 (2020), pp. 11-17. [新文化出版的微观记录——胡适致汪原放、章希吕信札四通考释.pdf](https://github.com/user-attachments/files/18599707/default.pdf)
-6.	“Struggling for Life: The Discourse of The Unknown Writers in the Post-May 4th Era,” Literary Review文学评论, No. 4 (2020), pp. 98-107. [关山难越：后五四时代的“无名作家”言说.pdf](https://github.com/user-attachments/files/18599711/default.pdf)
-7.	“Social Expectation and Female Consciousness: The Model Female Images in the 1920-1930's Public Opinion Poll,” Journal of Chinese Women's Studies妇女研究论丛, No. 5 (2019), pp. 99-112. [社会期待与女性自觉——20世纪二三十年代民意调查中的典范女性形象.pdf](https://github.com/user-attachments/files/18599713/20.pdf)
-8.	“Emotion and Gender in Public Opinions: Tao Sijin Murder Case and Female Homosexual Discourse in the Republic of China ,” Journal of Chinese Women's Studies妇女研究论丛, No. 5 (2017), pp. 60-78. [公众舆论中的情感和性别——陶思瑾案与民国女性同性爱话语.pdf](https://github.com/user-attachments/files/18599716/default.pdf)
+1. “Marginal Intelligentsia and the Chinese Revolution," Modern Chinese History Studies 近代史研究，No. 3(2025).[边缘文士与中国革命]
+2.		“Xu Yuying v. Ji Juemi: The Transformation Dilemma of Modern China as Seen in a Seduction Case,” Research on Women in Modern Chinese History近代中國婦女史研究(台灣), Vol. 43 (2024). [徐玉英告狀：一樁「誘姦案」中的現代中國轉型困局（1933-1935）.pdf](https://github.com/user-attachments/files/18601665/1933-1935.pdf)
+3.	“Making a Model of Vernacular Writing: A Study on the Compilation Reason of the First Collection of Hu Shih Wencun, ” WENXIAN文献, No.3 (2024). [制作白话范本：《胡适文存》初集编纂缘由考论.pdf](https://github.com/user-attachments/files/18599692/default.pdf)
+4.	“‘To the Moon’: The Spread and Evolution of Moon Exploration Knowledge in Modern China,” The Journal Of Humanities人文杂志, No.1 (2022), pp. 117-129. [“到月球去”：近代中国火箭探月知识的传播与演变.pdf](https://github.com/user-attachments/files/18599694/default.pdf)
+5.	“The Travelling of the Knowledge about ‘-ism’ - Pamphlet and Anarchism in Sichuan around the May Forth Movement, ” Journal of the History of Ideas in East Asia東亞觀念史集刊(台灣), Vol. 18 (2020), pp. 213-256. [主義知識的旅行：「小冊子」與五四前後四川的無政府主義.pdf](https://github.com/user-attachments/files/18599704/default.pdf)
+6.	Records of Publishing during the New Culture Movement: Research on the Four Letters from Hu Shizhi to Wang Yuanfang and Zhang Xilu,” Journal of Modern Chinese Literature现代中文学刊, No. 6 (2020), pp. 11-17. [新文化出版的微观记录——胡适致汪原放、章希吕信札四通考释.pdf](https://github.com/user-attachments/files/18599707/default.pdf)
+7.	“Struggling for Life: The Discourse of The Unknown Writers in the Post-May 4th Era,” Literary Review文学评论, No. 4 (2020), pp. 98-107. [关山难越：后五四时代的“无名作家”言说.pdf](https://github.com/user-attachments/files/18599711/default.pdf)
+8.	“Social Expectation and Female Consciousness: The Model Female Images in the 1920-1930's Public Opinion Poll,” Journal of Chinese Women's Studies妇女研究论丛, No. 5 (2019), pp. 99-112. [社会期待与女性自觉——20世纪二三十年代民意调查中的典范女性形象.pdf](https://github.com/user-attachments/files/18599713/20.pdf)
+9.	“Emotion and Gender in Public Opinions: Tao Sijin Murder Case and Female Homosexual Discourse in the Republic of China ,” Journal of Chinese Women's Studies妇女研究论丛, No. 5 (2017), pp. 60-78. [公众舆论中的情感和性别——陶思瑾案与民国女性同性爱话语.pdf](https://github.com/user-attachments/files/18599716/default.pdf)
 
 
 ## INTERVIEWS
@@ -46,11 +47,12 @@ I am a doctoral candidate from the Department of History at Tsinghua University 
 2.	“Finding History between the Local and the Global: Interviewing Prof. Wang Di” (在区域与全球之间追寻历史——王笛教授访谈), Regional Studies区域史研究, Vol.7 (2022), pp. 3-26.
 
 
-## PROJECTS
+## PROJECTS AND FELLOWSHIP
 **As project leader**
-- 2024-2025   "Field Investigation and Academic Growth of History Graduate Students", the Program of Graduate Education and Teaching Reform in Tsinghua University. (Project Number: 202403X002, 50000 yuan)
-- 2022-2023   "Fresh History Workshop: Construction of a Chinese Modern and Contemporary History Exchange Platform from the Perspective of New Liberal Arts", the Program of Graduate Education and Teaching Reform in Tsinghua University. (Project Number: 202201X001, 50000 yuan)
-- 2017-2018   "Research on the Group of Administration-Supervising Commissioner in Sichuan during the Republican Era", National College Students' Innovation and Entrepreneurship Training Program. (Project Number: 201710610034, 20000 yuan)
+— 2025—2026   "Forestry Archives from the Republic Era in the Three-North Region," Research Grant of First-hand Research Materials Collection Support Program for Young Scholars, Institute for Advanced Historical and Social Research. (¥ 15,000)
+- 2024-2025   "Field Investigation and Academic Growth of History Graduate Students", the Program of Graduate Education and Teaching Reform in Tsinghua University. (Project Number: 202403X002, ¥50000)
+- 2022-2023   "Fresh History Workshop: Construction of a Chinese Modern and Contemporary History Exchange Platform from the Perspective of New Liberal Arts", the Program of Graduate Education and Teaching Reform in Tsinghua University. (Project Number: 202201X001, ¥50000)
+- 2017-2018   "Research on the Group of Administration-Supervising Commissioner in Sichuan during the Republican Era", National College Students' Innovation and Entrepreneurship Training Program. (Project Number: 201710610034, ¥20000)
  
 **As project member**
 - 2016-2017   National College Students' innovation and entrepreneurship training program "Oral History Investigation of the Comprehensive Investigation of the Six River Basin" (20000 yuan)
