@@ -49,7 +49,7 @@ I am a doctoral candidate from the Department of History at Tsinghua University 
 
 ## PROJECTS AND FELLOWSHIP
 **As project leader**
-— 2025—2026   "Forestry Archives from the Republic Era in the Three-North Region," Research Grant of First-hand Research Materials Collection Support Program for Young Scholars, Institute for Advanced Historical and Social Research. (¥ 15,000)
+- 2025-2026   "Forestry Archives from the Republic Era in the Three-North Region," Research Grant of First-hand Research Materials Collection Support Program for Young Scholars, Institute for Advanced Historical and Social Research. (¥ 15,000)
 - 2024-2025   "Field Investigation and Academic Growth of History Graduate Students", the Program of Graduate Education and Teaching Reform in Tsinghua University. (Project Number: 202403X002, ¥50000)
 - 2022-2023   "Fresh History Workshop: Construction of a Chinese Modern and Contemporary History Exchange Platform from the Perspective of New Liberal Arts", the Program of Graduate Education and Teaching Reform in Tsinghua University. (Project Number: 202201X001, ¥50000)
 - 2017-2018   "Research on the Group of Administration-Supervising Commissioner in Sichuan during the Republican Era", National College Students' Innovation and Entrepreneurship Training Program. (Project Number: 201710610034, ¥20000)
