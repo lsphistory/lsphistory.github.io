@@ -10,14 +10,14 @@ title: 李世鹏 Shipeng Li
 
 ![IMG_4078](https://github.com/user-attachments/assets/3a57e688-deef-4145-b9fd-70fc38f57a0b)
 
-# 李世鵬 Shipeng Li
+# 李世鹏 Shipeng Li
 
 I am a doctoral candidate from the Department of History at Tsinghua University in China and a visiting doctoral student at Heidelberg University during the summer semester of 2025. My research interests encompass the societal and cultural dynamics of late imperial China through to contemporary China. Currently, my main research focus is on the history of the Mao era. My dissertation, provisionally titled Building Our New Great Wall: Forests and State Building in Northern China (1937-1987), seeks to analyze the political and social dimensions of Socialist China through the lenses of technological history, environmental history, cultural history, and global history. I have published multiple papers in Mainland China and Taiwan.
 
 ## EDUCATION
-- PhD Candidates – History, Tsinghua University. (2021- present)        Supervisor: Prof. Wang Dongjie 王東傑
-- MA - History, Renmin University of China (2018-2021)              Supervisor: Prof. Yang Jianli 楊劍利
-- BA - History, Sichuan University. (2014-2018)                      Supervisor: Prof. Luo Zhitian 羅志田
+- PhD Candidates – History, Tsinghua University. (2021- present)        Supervisor: Prof. Wang Dongjie 王东杰
+- MA - History, Renmin University of China (2018-2021)              Supervisor: Prof. Yang Jianli 杨剑利
+- BA - History, Sichuan University. (2014-2018)                      Supervisor: Prof. Luo Zhitian 罗志田
 
 
 ## RESEARCH INTERESTS
