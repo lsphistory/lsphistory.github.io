@@ -31,7 +31,7 @@ I am a doctoral candidate from the Department of History at Tsinghua University 
 
 
 ## PUBLICATIONS
-1.  “Marginal Intelligentsia and the Chinese Revolution," Modern Chinese History Studies 近代史研究，No. 3(2025).[边缘文士与中国革命]
+1.  “Marginal Intelligentsia and the Chinese Revolution," Modern Chinese History Studies 近代史研究，No. 3(2025).[边缘文士与中国革命.pdf](https://github.com/user-attachments/files/20758929/default.pdf)
 2. 	“Xu Yuying v. Ji Juemi: The Transformation Dilemma of Modern China as Seen in a Seduction Case,” Research on Women in Modern Chinese History近代中國婦女史研究(台灣), Vol. 43 (2024). [徐玉英告狀：一樁「誘姦案」中的現代中國轉型困局（1933-1935）.pdf](https://github.com/user-attachments/files/18601665/1933-1935.pdf)
 3.	“Making a Model of Vernacular Writing: A Study on the Compilation Reason of the First Collection of Hu Shih Wencun, ” WENXIAN文献, No.3 (2024). [制作白话范本：《胡适文存》初集编纂缘由考论.pdf](https://github.com/user-attachments/files/18599692/default.pdf)
 4.	“‘To the Moon’: The Spread and Evolution of Moon Exploration Knowledge in Modern China,” The Journal Of Humanities人文杂志, No.1 (2022), pp. 117-129. [“到月球去”：近代中国火箭探月知识的传播与演变.pdf](https://github.com/user-attachments/files/18599694/default.pdf)
