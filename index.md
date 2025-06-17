@@ -3,7 +3,6 @@ layout: default
 title: 李世鹏 Shipeng Li
 ---
 
-<p>我是清华大学历史系博士生。我的网站记录我的研究、出版与教学活动。</p>
 <meta name="keywords" content="清华大学, 历史学, 博士生, 学术主页">
 <meta name="description" content="清华大学历史系博士生，目前在海德堡大学访学。欢迎访问我的学术主页。">
 <meta name="msvalidate.01" content="F7DC009AAFFF21A905323EEBFC7E073C" />
